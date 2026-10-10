@@ -1,0 +1,3 @@
+HACER TP DE AICSS;23/03/2027;pendente;alta;trabalho;nenhuma
+COMPRAR COMIDA Y COMIDA PARA EL PERRO;12/10/2026;pendente;baixa;pessoal;semanal
+ENTREGAR CHECK POINT 2 DE LEO;11/10/2026;pendente;alta;estudos;nenhuma
